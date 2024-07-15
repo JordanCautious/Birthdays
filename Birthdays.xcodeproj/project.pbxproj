@@ -11,6 +11,7 @@
 		7634AAAD2C4582380058CCD5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7634AAAC2C4582380058CCD5 /* ContentView.swift */; };
 		7634AAAF2C4582390058CCD5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7634AAAE2C4582390058CCD5 /* Assets.xcassets */; };
 		7634AAB22C4582390058CCD5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7634AAB12C4582390058CCD5 /* Preview Assets.xcassets */; };
+		7634AAB92C4582910058CCD5 /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7634AAB82C4582910058CCD5 /* Friend.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7634AAAC2C4582380058CCD5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7634AAAE2C4582390058CCD5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7634AAB12C4582390058CCD5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7634AAB82C4582910058CCD5 /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		7634AAA92C4582380058CCD5 /* Birthdays */ = {
 			isa = PBXGroup;
 			children = (
+				7634AAB82C4582910058CCD5 /* Friend.swift */,
 				7634AAAA2C4582380058CCD5 /* BirthdaysApp.swift */,
 				7634AAAC2C4582380058CCD5 /* ContentView.swift */,
 				7634AAAE2C4582390058CCD5 /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7634AAB92C4582910058CCD5 /* Friend.swift in Sources */,
 				7634AAAD2C4582380058CCD5 /* ContentView.swift in Sources */,
 				7634AAAB2C4582380058CCD5 /* BirthdaysApp.swift in Sources */,
 			);
